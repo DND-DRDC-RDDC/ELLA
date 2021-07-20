@@ -1,0 +1,15 @@
+Package: ELLA
+Title: Endurance Limited Lines of Approach
+Version: 2.0.0.0
+Authors@R: 
+    person(given = "Matthew",
+           family = "MacLeod",
+           role = c("aut", "cre"),
+           email = "Matthew.MacLeod3@forces.gc.ca",
+           comment = c(ORCID = "0000-0002-1981-9660"))
+Description: This code is supplementary to the published paper MacLeod, Matthew R., 2021. <em>Endurance Limited Lines of Approach for a Sprinting Submarine</em>. Military Operations Research, 26(2), pp.59-74. Specifically, it produces the figures in that paper, as well as providing more general functions to apply the approach there in.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
